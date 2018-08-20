@@ -1,11 +1,10 @@
+#adição
 num1 = 1
 num2 = 2
-
 print("Somando 1 + 2: ")
 print(num1 + num2)
 
 #subtração
-
 sub1 = 1
 sub2 = 2
 print("Subtraindo 2 - 1: ")
