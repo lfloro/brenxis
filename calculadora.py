@@ -14,3 +14,9 @@ print(sub2 - sub1)
 mul1 = 2
 mul2 = 3
 print(mul1 * mul2)
+
+#divisão
+div1 = 4
+div2 = 2
+print("Dividindo 4 / 2 = ")
+print(div1 / div2) 
